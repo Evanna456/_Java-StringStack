@@ -1,6 +1,6 @@
 ## About _Java-StringStack
 
-String Stack Problem
+String Stack Problem Activity
 
 ## Usage
 
